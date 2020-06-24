@@ -1,0 +1,15 @@
+body {
+  font-family: "Comic Sans MS";
+  font-size: 15pt;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1em;
+  text-align: left;
+  text-indent: 4em;
+}
