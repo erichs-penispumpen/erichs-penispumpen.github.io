@@ -3,6 +3,8 @@ body {
   font-size: 15pt;
   margin-left: 1em;
   margin-right: 1em;
+  color: black;
+  background-color: white;
 }
 
 h1 {
@@ -15,4 +17,10 @@ h1 {
 p {
   font-size: 1em;
   text-align: left;
+}
+
+.sneek {
+  font-size: 3pt;
+  color: white;
+  background-color: white;
 }
