@@ -6,10 +6,13 @@ body {
 h1 {
   font-size: 2em;
   font-weight: bold;
+  margin-left: 1em;
+  margin-top: 4em;
 }
 
 p {
   font-size: 1em;
   text-align: left;
-  text-indent: 4em;
+  margin-left: 2em;
+  margin-top: 1em;
 }
